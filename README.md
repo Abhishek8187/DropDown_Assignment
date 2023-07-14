@@ -7,7 +7,11 @@ A new Flutter project.
 This project is a starting point for a Flutter application.
 
 This is an internship assignment in which you can choose a desired size container.
+
+
 Then the container gives you with multiple options to upload a link or a picture from gallery or any text
+
+
 I have used provider for state management
 
 
