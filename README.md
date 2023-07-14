@@ -1,4 +1,3 @@
-![4](https://github.com/Abhishek8187/DropDown_Assignment/assets/72517135/9ae0e24c-687c-42d3-ae40-a741ad97199c)# drop_down
 
 A new Flutter project.
 
